@@ -14,9 +14,24 @@ The dataset contains information on 2,240 unique customers, with each row repres
 - **Spending behavior:** Amount spent across product categories such as wine, meat, fruit, fish ect.
 - **Marketing response:** Responses and acceptance of previous marketing campaigns.
 
-The dataset was obtained from Kaggle and can be downloaded [here](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/data) 
+The dataset was obtained from Kaggle and can be downloaded [here](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/data). 
 
 ## Executive summary 
+The analysis identified 5 distinct customer segments with substantial differences in spending behavior, purchasing channels, household characteristics and responsiveness to marketing campaigns. 
+
+### Identified Customer Segments
+
+| Segment | Key Characteristics |
+|---|---|
+| **Cluster 1 – Discount Shoppers** | High use of discounts and many children at home |
+| **Cluster 2 – Low-Value Customers** | Lowest income and spending, young customers and frequent website visitors |
+| **Cluster 3 – Marketing-Resistant Customers** | Low response to marketing campaigns and many households with teenagers |
+| **Cluster 4 – High-Value Customers** | Highest income and spending, strong store/catalog purchasing and highest campaign response |
+| **Cluster 5 – Active Online Customers** | Highest web purchasing activity and relatively high campaign response |
+
+Overall, the segmentation demonstrates that a differentiated marketing strategy is likely to be more effective than treating all customers the same. 
+
+
 
 
 
